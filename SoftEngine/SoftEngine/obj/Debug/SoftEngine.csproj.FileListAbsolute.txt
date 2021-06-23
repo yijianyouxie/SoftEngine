@@ -1,0 +1,16 @@
+D:\SoftEngine\SoftEngine\SoftEngine\bin\Debug\SoftEngine.exe.config
+D:\SoftEngine\SoftEngine\SoftEngine\bin\Debug\SoftEngine.exe
+D:\SoftEngine\SoftEngine\SoftEngine\bin\Debug\SoftEngine.pdb
+D:\SoftEngine\SoftEngine\SoftEngine\bin\Debug\SharpDX.dll
+D:\SoftEngine\SoftEngine\SoftEngine\bin\Debug\SharpDX.xml
+D:\SoftEngine\SoftEngine\SoftEngine\obj\Debug\SoftEngine.csprojResolveAssemblyReference.cache
+D:\SoftEngine\SoftEngine\SoftEngine\obj\Debug\MainWindow.g.cs
+D:\SoftEngine\SoftEngine\SoftEngine\obj\Debug\App.g.cs
+D:\SoftEngine\SoftEngine\SoftEngine\obj\Debug\SoftEngine_MarkupCompile.cache
+D:\SoftEngine\SoftEngine\SoftEngine\obj\Debug\SoftEngine_MarkupCompile.lref
+D:\SoftEngine\SoftEngine\SoftEngine\obj\Debug\MainWindow.baml
+D:\SoftEngine\SoftEngine\SoftEngine\obj\Debug\SoftEngine.g.resources
+D:\SoftEngine\SoftEngine\SoftEngine\obj\Debug\SoftEngine.Properties.Resources.resources
+D:\SoftEngine\SoftEngine\SoftEngine\obj\Debug\SoftEngine.csproj.GenerateResource.Cache
+D:\SoftEngine\SoftEngine\SoftEngine\obj\Debug\SoftEngine.exe
+D:\SoftEngine\SoftEngine\SoftEngine\obj\Debug\SoftEngine.pdb
